@@ -36,7 +36,8 @@
 
 - 저장 위치: `%APPDATA%\ModernPokemonManager`
 - 설치형과 포터블은 같은 저장을 씁니다.
-- **v0.0.5는 이전 버전(v0.0.1~v0.0.4)의 저장을 불러올 수 없습니다** — 새 게임을 시작해 주세요. 옛 저장은 불러오기 목록에 "이전 버전"으로 표시되고 지울 수 있습니다.
+- **v0.0.5 이후의 저장은 앞으로 나올 버전에서도 계속 불러올 수 있습니다.** (v0.0.1~v0.0.4 저장은 불러올 수 없어요 — 불러오기 목록에 "이전 버전"으로 표시되고 지울 수 있습니다.)
+- **업데이트:** 설치형은 v0.0.6부터 새 버전을 자동으로 내려받고, 게임을 끌 때 설치합니다 (설정에서 끌 수 있어요). 포터블은 새 버전이 나오면 알려 주니 Releases에서 새 파일을 받으면 됩니다. v0.0.5 이하를 쓰고 있다면 v0.0.6은 한 번 직접 받아 주세요.
 
 ---
 
@@ -88,7 +89,8 @@ No internet or other software needed — all art, sound and music are inside the
 - On first launch you pick a language (English / 한국어) before the prologue; you can change it later in Settings.
 - Mouse only; F11 toggles full screen.
 - Windows 10/11 64-bit, 1280×720 or larger (16:9 and 21:9), ~600 MB of disk.
-- Saves are kept in `%APPDATA%\ModernPokemonManager` (shared by both files). **v0.0.5 can't load saves from earlier versions (v0.0.1–v0.0.4)** — please start a new game.
+- Saves are kept in `%APPDATA%\ModernPokemonManager` (shared by both files). **Saves from v0.0.5 onward keep loading in future versions** (v0.0.1–v0.0.4 saves can't be loaded).
+- **Updates:** from v0.0.6 the installer version downloads new versions by itself and installs them when you quit (you can turn this off in Settings). The portable version tells you when a new version is out — grab the new file from Releases. If you're on v0.0.5 or older, download v0.0.6 once by hand.
 
 ### Disclaimer
 
