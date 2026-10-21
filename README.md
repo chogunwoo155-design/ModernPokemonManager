@@ -36,7 +36,7 @@
 
 - 저장 위치: `%APPDATA%\ModernPokemonManager`
 - 설치형과 포터블은 같은 저장을 씁니다.
-- **v0.0.4는 이전 버전(v0.0.1~v0.0.3)의 저장을 불러올 수 없습니다** — 새 게임을 시작해 주세요. 옛 저장은 불러오기 목록에 "이전 버전"으로 표시되고 지울 수 있습니다.
+- **v0.0.5는 이전 버전(v0.0.1~v0.0.4)의 저장을 불러올 수 없습니다** — 새 게임을 시작해 주세요. 옛 저장은 불러오기 목록에 "이전 버전"으로 표시되고 지울 수 있습니다.
 
 ---
 
@@ -49,7 +49,7 @@
 - **자동 배틀** — 원작 턴제 규칙 그대로. 2.5D 관전 화면, 기술 이펙트, 배속·스킵·하이라이트.
 - **클럽 운영** — 이적시장과 협상(합의 7일 뒤 합류, 그사이 다른 클럽의 경쟁 제안), 매일 움직이는 AI 이적시장과 이적 소식, 원하는 포켓몬이 나오면 알려 주는 매물 알림, 급여와 계약, 만족도와 클럽 충성, 스태프(직군마다 한 명), 스카우터, 매달 갱신되는 상점·경매장·알·스킬 드라이브, 쓰지 않는 여분 아이템 판매(상점 정가의 절반), 주장.
 - **면담과 약속** — 불만인 포켓몬은 이유(출전 부족·급여·이적 거절 등)를 보여 줍니다. 선발·휴식·급여 인상·이적 허락을 약속할 수 있지만, 어기면 쉽게 용서하지 않아요.
-- **전설과 환상** — 처음 1부로 승격하면 소속 없는 전설·환상 포켓몬이 먼저 입단을 제안해 옵니다 (커리어에 한 번). 엔트리에는 전설 1마리 + 환상 1마리까지 — 전설은 1부에서만, 환상은 모든 리그에서 등록·출전할 수 있고 특별 매물로 나오면 어느 리그 클럽이든 살 수 있어요.
+- **전설과 환상** — 처음 1부로 승격하면 클럽에 긴급 제안이 들어옵니다 — 막 데뷔한 신예 전설과, 강등된 클럽에서 방출된 베테랑 전설 중 단 하나만 고를 수 있어요 (커리어에 한 번). 엔트리에는 전설 1마리 + 환상 1마리까지 — 전설은 1부에서만, 환상은 모든 리그에서 등록·출전할 수 있고 특별 매물로 나오면 어느 리그 클럽이든 살 수 있어요.
 - **진화의 돌과 특수 진화** — 돌로 진화하는 포켓몬은 돌이 생길 때까지 진화를 기다립니다(상점에 입고). 친밀도로 진화하는 포켓몬은 클럽 충성이 충분해야 진화해요. 메가진화·원시회귀 등은 특별한 도구를 지닌 포켓몬이 경기에 나오는 순간 턴을 쓰지 않고 바로 일어나며, 한 엔트리에 여러 마리도 됩니다.
 - **커리어 엔딩** — 1부 리그와 레드·오크·케첨컵을 모두 우승하면 은퇴하고 엔딩을 볼 수 있습니다.
 
@@ -73,7 +73,7 @@
 
 **Modern Pokémon Manager** is a free fan game: Football Manager-style club management plus fully automatic 6v6 Pokémon battles. Pokémon have left their Poké Balls and live like people — you are the manager of a pro league club. You don't give orders in battle: you sign, contract, develop and pick the line-up, and the Pokémon fight on their own.
 
-Climb from Division 6 to Division 1 and win the league plus the Red, Oak and Ketchum Cups. Along the way: a living transfer market with rival bids and listing alerts, talks with unhappy Pokémon (break a promise and they won't forget), evolution stones stocked in a shop that refreshes monthly, spare items you can sell back at half the shop price, Mega Evolution that happens the moment the holder enters battle (several Megas per line-up are fine), and — once you first reach Division 1 — a Legendary or Mythical that asks to join. A line-up can field one Legendary (Division 1 only) and one Mythical (any division — a Mythical on a special listing can be bought by clubs in every division).
+Climb from Division 6 to Division 1 and win the league plus the Red, Oak and Ketchum Cups. Along the way: a living transfer market with rival bids and listing alerts, talks with unhappy Pokémon (break a promise and they won't forget), evolution stones stocked in a shop that refreshes monthly, spare items you can sell back at half the shop price, Mega Evolution that happens the moment the holder enters battle (several Megas per line-up are fine), and — once you first reach Division 1 — urgent offers from a newly debuted Legendary and veteran Legendaries released by relegated clubs, of which you can accept only one. A line-up can field one Legendary (Division 1 only) and one Mythical (any division — a Mythical on a special listing can be bought by clubs in every division).
 
 ### Download
 
@@ -88,7 +88,7 @@ No internet or other software needed — all art, sound and music are inside the
 - On first launch you pick a language (English / 한국어) before the prologue; you can change it later in Settings.
 - Mouse only; F11 toggles full screen.
 - Windows 10/11 64-bit, 1280×720 or larger (16:9 and 21:9), ~600 MB of disk.
-- Saves are kept in `%APPDATA%\ModernPokemonManager` (shared by both files). **v0.0.4 can't load saves from earlier versions (v0.0.1–v0.0.3)** — please start a new game.
+- Saves are kept in `%APPDATA%\ModernPokemonManager` (shared by both files). **v0.0.5 can't load saves from earlier versions (v0.0.1–v0.0.4)** — please start a new game.
 
 ### Disclaimer
 
