@@ -36,7 +36,7 @@
 
 - 저장 위치: `%APPDATA%\ModernPokemonManager`
 - 설치형과 포터블은 같은 저장을 씁니다.
-- **v0.0.2부터 저장 형식이 바뀌어 v0.0.1 저장은 불러올 수 없습니다** — 새 게임을 시작해 주세요. 옛 저장은 불러오기 목록에 "이전 버전"으로 표시되고 지울 수 있습니다.
+- **v0.0.3은 이전 버전(v0.0.1·v0.0.2)의 저장을 불러올 수 없습니다** — 새 게임을 시작해 주세요. 옛 저장은 불러오기 목록에 "이전 버전"으로 표시되고 지울 수 있습니다.
 
 ---
 
@@ -47,9 +47,10 @@
 - **레벨 없는 세계** — 경기에 나가 싸우는 것이 곧 성장. 많이 뛸수록 진화하고 강해지지만, 최종 진화 뒤에는 은퇴가 다가옵니다.
 - **같은 종도 다른 개체** — 개체마다 다른 종족값, 전투 지능 INT 0~3, 결정력 DET, 그리고 보이지 않는 숨은 성향.
 - **자동 배틀** — 원작 턴제 규칙 그대로. 2.5D 관전 화면, 기술 이펙트, 배속·스킵·하이라이트.
-- **클럽 운영** — 이적시장과 협상(합의 7일 뒤 합류, 그사이 다른 클럽의 경쟁 제안), 매일 움직이는 AI 이적시장과 이적 소식, 급여와 계약, 만족도와 클럽 충성, 스태프, 스카우터, 상점·경매장·알·스킬 드라이브, 주장.
-- **전설의 역제의** — 처음 1부로 승격하면 소속 없는 전설·환상 포켓몬이 먼저 입단을 제안해 옵니다 (커리어에 한 번).
-- **특수 진화** — 메가진화·원시회귀 등은 특별한 도구를 들고 경기에 들어갈 때만.
+- **클럽 운영** — 이적시장과 협상(합의 7일 뒤 합류, 그사이 다른 클럽의 경쟁 제안), 매일 움직이는 AI 이적시장과 이적 소식, 원하는 종이 나오면 알려 주는 매물 알림, 급여와 계약, 만족도와 클럽 충성, 스태프, 스카우터, 매달 갱신되는 상점·경매장·알·스킬 드라이브, 주장.
+- **면담과 약속** — 불만인 포켓몬은 이유(출전 부족·급여·이적 거절 등)를 보여 줍니다. 선발·휴식·급여 인상·이적 허락을 약속할 수 있지만, 어기면 쉽게 용서하지 않아요.
+- **전설의 역제의** — 처음 1부로 승격하면 소속 없는 전설·환상 포켓몬이 먼저 입단을 제안해 옵니다 (커리어에 한 번). 1부 엔트리에는 전설 1마리 + 환상 1마리까지.
+- **진화의 돌과 특수 진화** — 돌로 진화하는 포켓몬은 돌이 생길 때까지 진화를 기다립니다(상점에 입고). 메가진화·원시회귀 등은 특별한 도구를 들고 경기에 들어갈 때만.
 - **커리어 엔딩** — 1부 리그와 레드·오크·케첨컵을 모두 우승하면 은퇴하고 엔딩을 볼 수 있습니다.
 
 화면마다 튜토리얼이 있고, 오른쪽 위 **?** 버튼으로 언제든 다시 볼 수 있어요.
@@ -72,6 +73,8 @@
 
 **Modern Pokémon Manager** is a free fan game: Football Manager-style club management plus fully automatic 6v6 Pokémon battles. Pokémon have left their Poké Balls and live like people — you are the manager of a pro league club. You don't give orders in battle: you sign, contract, develop and pick the line-up, and the Pokémon fight on their own.
 
+Climb from Division 6 to Division 1 and win the league plus the Red, Oak and Ketchum Cups. Along the way: a living transfer market with rival bids and listing alerts, talks with unhappy Pokémon (break a promise and they won't forget), evolution stones stocked in a shop that refreshes monthly, and — once you first reach Division 1 — a Legendary or Mythical that asks to join (a Division 1 line-up can field one of each).
+
 ### Download
 
 Get the latest version from **[Releases](../../releases)** — you only need one file:
@@ -85,7 +88,7 @@ No internet or other software needed — all art, sound and music are inside the
 - On first launch you pick a language (English / 한국어) before the prologue; you can change it later in Settings.
 - Mouse only; F11 toggles full screen.
 - Windows 10/11 64-bit, 1280×720 or larger (16:9 and 21:9), ~600 MB of disk.
-- Saves are kept in `%APPDATA%\ModernPokemonManager` (shared by both files). **Saves from v0.0.1 can't be loaded in v0.0.2 or later** — please start a new game.
+- Saves are kept in `%APPDATA%\ModernPokemonManager` (shared by both files). **v0.0.3 can't load saves from earlier versions (v0.0.1, v0.0.2)** — please start a new game.
 
 ### Disclaimer
 
