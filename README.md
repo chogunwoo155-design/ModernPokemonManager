@@ -13,6 +13,8 @@
 
 👉 **[Releases](../../releases)** 에서 최신 버전을 받으세요.
 
+🌐 **웹에서 바로 하기:** https://modern-pokemon-manager.pages.dev/play/ · 홈페이지: https://modern-pokemon-manager.pages.dev
+
 | 파일 | 설명 |
 | --- | --- |
 | `ModernPokemonManager-<버전>-portable.exe` | **추천.** 받아서 더블클릭하면 바로 실행. 설치 필요 없음. 첫 화면까지 최대 20초 정도 걸릴 수 있어요. |
@@ -77,6 +79,8 @@
 Climb from Division 6 to Division 1 and win the league plus the Red, Oak and Ketchum Cups. Along the way: a living transfer market with rival bids and listing alerts, talks with unhappy Pokémon (break a promise and they won't forget), evolution stones stocked in a shop that refreshes monthly, spare items you can sell back at half the shop price, Mega Evolution that happens the moment the holder enters battle (several Megas per line-up are fine), and — once you first reach Division 1 — urgent offers from a newly debuted Legendary and veteran Legendaries released by relegated clubs, of which you can accept only one. A line-up can field one Legendary (Division 1 only) and one Mythical (any division — a Mythical on a special listing can be bought by clubs in every division).
 
 ### Download
+
+🌐 **Play in your browser:** https://modern-pokemon-manager.pages.dev/play/ · Website: https://modern-pokemon-manager.pages.dev
 
 Get the latest version from **[Releases](../../releases)** — you only need one file:
 
