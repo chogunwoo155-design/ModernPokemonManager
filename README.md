@@ -1,5 +1,7 @@
 # 모던 포켓몬 매니저 (Modern Pokémon Manager)
 
+🏠 **홈페이지 · Homepage: https://modern-pokemon-manager.pages.dev**
+
 > 포켓몬이 몬스터볼을 떠나 사람처럼 살아가는 시대. 당신은 포켓몬 프로 리그 클럽의 감독이다.
 
 **Football Manager 스타일 클럽 경영 + 자동 6 대 6 포켓몬 배틀** 무료 팬게임입니다.
